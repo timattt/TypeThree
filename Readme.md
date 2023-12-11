@@ -2,7 +2,7 @@
 
 Веб-приложение для лабораторных вычислений.
 Основная часть - это язык программирования, похожий на матлаб, но с физтеховской спецификой.
-Документация по языку представленна [здесь](https://github.com/timattt/TypeThree/blob/master/manual.pdf)
+Документация по языку представленна [здесь](https://github.com/timattt/TypeThree/blob/master/manual.pdf). Больше информации по легаси решению можно посмотреть [тут](https://github.com/timattt/Laboratory-calculations-optimizator).
 
 # Архитектура
 
